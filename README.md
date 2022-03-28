@@ -1,2 +1,2 @@
-# Vehicular-Vision
-2019 Fall - Course - NCTU (Graduate) Vehicular Vision
+# Stray Animals Tracking
+Control a drone to detect and Track stray animals with deep learning techniques.
